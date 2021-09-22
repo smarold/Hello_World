@@ -56,9 +56,9 @@ print("It will take " + str(month) + " months to pay off your student loans.")
 print("It will take " + str(month/12) + " years to pay off your student loans.")
 ```
 
-### Files Used [^1]
-[^1]: There were no files used for this problem.
-### Additional Documentation [^1]
-[^1]: There is no additional documentation for this problem.
-### Versioning [^1]
-[^1]: There is no versioning at this time.
+### Files Used
+*There were no files used for this problem.*
+### Additional Documentation
+*There is no additional documentation for this problem.*
+### Versioning
+*There is no versioning at this time.*
