@@ -4,7 +4,10 @@ Hey y'all!
 
 My name is Sam Marold, I am a senior at the University of Iowa. 
 I'm going for a double major with a B.B.A. in Accounting and a B.B.A. in Business Analytics.
-My passions include the outdoors, music, and just about everything involving sports!
+My passions include:
+1. The outdoors (hiking, skiing, rafting)
+2. Music (guitar, singing, producing)
+3. Just about everything involving sports!
 
 # Student Loan Problem
 ### Description
@@ -48,14 +51,14 @@ while total_owed >= 0:
     total_owed = (total_owed - monthly_payment)
     total_owed = total_owed + ((total_owed*interest)/12)
     month += 1
-```
     
 print("It will take " + str(month) + " months to pay off your student loans.")
 print("It will take " + str(month/12) + " years to pay off your student loans.")
+```
 
-### Files Used
-There were no files used for this problem.
-### Additional Documentation
-There is no additional documentation for this problem.
-### Versioning
-There is no versioning at this time.
+### Files Used [^1]
+[^1]: There were no files used for this problem.
+### Additional Documentation [^1]
+[^1]: There is no additional documentation for this problem.
+### Versioning [^1]
+[^1]: There is no versioning at this time.
